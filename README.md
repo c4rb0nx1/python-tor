@@ -9,4 +9,4 @@
 [Method 2](https://github.com/c4rb0nx1/python-tor/blob/side/method_3.py) ---> *Using* ***stem, socks, socket***  *with scrapy/bs4(optional).*
 
 
-`pip install -r requirements.txt`
+>`pip install -r requirements.txt`
