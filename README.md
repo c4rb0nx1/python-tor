@@ -9,9 +9,8 @@ Note: *When using any of these methods, make sure your Tor client is running and
 
 [Method 2](https://github.com/c4rb0nx1/python-tor/blob/side/method_3.py) ---> *Using* ***stem, socks, socket***  *with scrapy/bs4(optional).*
 
-<pre>
+
 ```python
 pip install -r requirements.txt
 ```
-</pre>
 
