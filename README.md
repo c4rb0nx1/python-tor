@@ -1,4 +1,4 @@
-# python-tor
+# python3-tor
 ------
 ### Various methods to connect your python program to the tor's Network.
 
