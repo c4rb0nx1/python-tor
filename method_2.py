@@ -21,5 +21,5 @@ conn.request("GET", "/")
 response = conn.getresponse()
 data = response.read()
 
-# Your crawler code here
+# Your code goes here
 print(data)   #prints if you are connected.
